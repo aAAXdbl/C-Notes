@@ -1,1 +1,3 @@
-# C-Notes
+# C++ Notes
+
+## My C++ Notes
